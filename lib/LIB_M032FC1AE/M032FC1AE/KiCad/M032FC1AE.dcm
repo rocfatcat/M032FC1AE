@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M032FC1AE
+D IC MCU 32BIT CORTEX-M0 32KB FLAS
+K
+F https://datasheet.lcsc.com/lcsc/2009261437_Nuvoton-Tech-M031LD2AE_C841531.pdf
+$ENDCMP
+#
+#End Doc Library

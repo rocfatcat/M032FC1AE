@@ -1,0 +1,9 @@
+Manufacturer=Nuvoton
+PartNumber=M032FC1AE
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=20
+Version=1.1
+Released=2023-01-23 10:26:35
+Downloaded=2025-08-04 16:23:32
+3D=Y

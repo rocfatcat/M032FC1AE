@@ -1,0 +1,37 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+M032FC1AE SOP65P640X120-20N I ANA 7 1 0 0 0
+TIMESTAMP 2025.08.04.16.23.32
+"Mouser Part Number" 
+"Mouser Price/Stock" 
+"Manufacturer_Name" Nuvoton
+"Manufacturer_Part_Number" M032FC1AE
+"Description" IC MCU 32BIT CORTEX-M0 32KB FLAS
+"Datasheet Link" https://datasheet.lcsc.com/lcsc/2009261437_Nuvoton-Tech-M031LD2AE_C841531.pdf
+"Geometry.Height" 1.2mm
+GATE 1 20 0
+M032FC1AE
+1 0 U USB_D-
+2 0 U USB_D+
+3 0 U USB_VDD33_CAP
+4 0 U VSS
+5 0 U LDO_CAP
+6 0 U VDD
+7 0 U PB.14
+8 0 U PB.13
+9 0 U PB.12
+10 0 U AVDD
+20 0 U USB_VBUS
+19 0 U PF.1
+18 0 U PF.0
+17 0 U NRESET
+16 0 U PA.0
+15 0 U PA.1
+14 0 U PA.2
+13 0 U PA.3
+12 0 U PF.2
+11 0 U PF.3
+
+*END*
+*REMARK* SamacSys ECAD Model
+17255776/90309/2.50/20/3/Integrated Circuit

@@ -1,0 +1,16 @@
+.M032FC1AE :1 ;IC MCU 32BIT CORTEX-M0 32KB FLAS
+SOP65P640X120-20N
+*STM IC
+*NGS
+*PLB 1="USB_D-" 2="USB_D+" 3="USB_VDD33_CAP" 4="VSS" 5="LDO_CAP" 6="VDD" 7="PB.14" 8="PB.13" 9="PB.12" 10="AVDD" 11="PF.3" 12="PF.2" 13="PA.3" 14="PA.2" 15="PA.1" 16="PA.0" 17="NRESET" 18="PF.0" 19="PF.1" 20="USB_VBUS"
+*MXP 20
+*DFN M032FC1AE
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Nuvoton)
+~!Manufacturer_Part_Number (M032FC1AE)
+~!Link Datasheet (https://datasheet.lcsc.com/lcsc/2009261437_Nuvoton-Tech-M031LD2AE_C841531.pdf)
+~!Height (1.2mm)
+~!3D_Model (M032FC1AE)
+M032FC1AE
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 
